@@ -19,3 +19,6 @@ I want to send a especial thanks to the Flips team, that made the Flips patcher,
 I also want to thank the 7zip team, that made the 7z library, that I use to extract the files and is a crucial part of the project.
 
 FLips and 7z are not part of this project, but they are essential to it and are stored in the 'tools' folder.
+
+# where are the games?
+when you run the project, a folder name 'run' will be created in the root of the project. Inside it, you will find the games (in a folder named 'games').
